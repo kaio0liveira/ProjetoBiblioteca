@@ -91,7 +91,7 @@ CREATE TABLE `livros` (
 
 INSERT INTO `livros` (`id`, `autor`, `editora`, `titulo_da_obra`, `data_cadastro`, `preco`, `obs_complementares`) VALUES
 (1, 'kaio', 'kaio', 'kaio', '2020-03-02', '10', 'seja bem vindo'),
-(2, 'bob', 'bobb', 'bob', '2020-03-02', '50', 'hoje e seu dia!'),
+
 
 
 --
